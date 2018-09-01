@@ -33,7 +33,6 @@
                         <input name="password" type="password" placeholder="Password" class="form-control" maxlength="100px"><br>
                     </div>
                     <div>
-                        <input type="submit" value="Log In" class="btn btn-primary">
                         <input type="button" onclick="window.location = '<?php echo $loginURL?>'" value="Login with Facebook" class="btn btn-primary">
                     </div>
                 </div>
